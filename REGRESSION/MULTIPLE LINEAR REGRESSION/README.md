@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://miro.medium.com/max/1662/1*39FkA9sgT6E_txFT_KANjw.png" >
+    <img src="SRC/multiple LINEAR.png" >
   </a>
 
   <h3 align="center">EQUATION OF MULTIPLE LINEAR REGRESSION</h3>
