@@ -1,4 +1,4 @@
-# LINEAR REGRESSION
+# SIMPLE LINEAR REGRESSION
 
 ## WHAT'S THAT  <img src="https://media.giphy.com/media/xTiN0IuPQxRqzxodZm/giphy.gif" width="40" height="40" /> ##
 ##### <=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=<=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=> ####
