@@ -14,6 +14,6 @@ SIMPLE LINEAR REGRESSION IS A LINEAR REGRESSION MODEL WITH A SINGLE EXPLANATORY 
 
 <br />
 <p align="center">
-    <img src="SRC/simple LINEAR.png" >
+    <img src="SRC/Simple LINEAR.png" >
   </a>
 <h3 align="center">EQUATION OF SIMPLE LINEAR REGRESSION</h3>
